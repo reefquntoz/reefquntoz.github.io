@@ -1,3 +1,20 @@
 theme: jekyll-theme-minimal
 title: Arif's Portfolio
-description: AI/ML Student & Aspiring Investor
+description: Master of Artificial Intelligence & Machine Learning | AI/ML Developer | Aspiring Investor
+author: Arif
+email: your.email@example.com
+github_username: reefquntoz
+linkedin_username: arifkunto
+ 
+# Site settings
+baseurl: ""
+url: "https://arifkunto.github.io"
+ 
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+ 
+# Minimal theme customization
+show_downloads: false
+ 
